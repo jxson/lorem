@@ -1,0 +1,26 @@
+Lorem
+=====
+
+Written by Jason Campbell
+
+I specifically made this to use with factory_girl andto help me load up the dev env with dummy data that looks real.
+
+This generates random Lorem Ipsum, and is super easy to use.
+
+I still got to clean it up a bit but this is a pretty good start..
+
+
+Example
+=======
+
+>> Lorem :words, 3
+=> "et ipsum, cupiditate"
+
+>> Lorem :sentences, 1
+=> "Assumenda iste voluptatibus vitae eligendi velit laudantium, porro atque."
+
+>> Lorem :paragraphs, 2
+=> "Non est aperiam officiis ut voluptas et iste porro est, debitis quidem. Voluptatem. aliquid vel laudantium, molestias ut consequuntur cumque architecto aut accusamus velit placeat, minus iure, Qui consectetur, expedita fugit, rerum sit, necessitatibus eos non omnis quaerat laborum illo consequatur? Dolores nam consequatur? optio, debitis quibusdam hic temporibus velit sit quia sapiente! Sapiente harum eveniet, ex labore nesciunt, necessitatibus numquam. \n\nDeleniti ut molestias quo repudiandae quia sint fuga. aut unde voluptatum hic, Doloremque consequuntur rerum corporis architecto magnam eos fugit, maxime et aliquid commodi? Quia earum culpa, sunt, ipsam fugit, tempore, ducimus, est et dignissimos sed nemo, Provident, maxime est harum debitis veniam, alias temporibus."
+
+
+Copyright (c) 2009 [name of plugin creator], released under the MIT license
