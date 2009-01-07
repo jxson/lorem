@@ -3,7 +3,7 @@ Lorem
 
 Written by Jason Campbell
 
-I specifically made this to use with factory_girl andto help me load up the dev env with dummy data that looks real.
+I specifically made this to use with factory_girl and to help me load up the dev env with dummy data that looks real.
 
 This generates random Lorem Ipsum, and is super easy to use.
 
